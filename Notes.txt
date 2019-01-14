@@ -1,0 +1,11 @@
+1. Created ANxyz on github
+2. Created ANxyz on bitbucket
+3. Cloned bitbucket repo in local machine, added steps.
+4. Added Notes.txt file followed by an initial commit and push to origin/master
+5. Created new branch "develop". Committed and pushed the changed to origin (Creates PR to merge into origin/master)
+
+6. New remote as "remotegithub" is added to host GitHub contents which will be tracked by new "github" branch shortly
+7. Adding an intermediate commit#1 to develop. And merging the same into origin/master
+8. Adding an intermediate commit#2 to develop. And merging the same into origin/master
+9. Adding an intermediate commit#3 to develop. And merging the same into origin/master
+10. Master is now ready to be pushed to GitHub as Version 1.0. Merge origin/master into "github" and commit+push to remotegithub/master
